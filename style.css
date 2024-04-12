@@ -1,0 +1,12 @@
+.todo-action-button {
+    cursor: pointer;
+    margin-right: 1em;
+}
+
+.todo-action-button:disabled {
+    cursor: not-allowed;
+}
+
+.done {
+    text-decoration: line-through;
+}
